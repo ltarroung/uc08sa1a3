@@ -1,2 +1,10 @@
 git config --global user.name "leonardo tarrou"
 git config --global user.email "ltarroung@gmail.com" 
+git add .
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/ltarroung/uc08sa1a3.git
+ git push  origin master
+
+
+instalar extensão no vs code:
+ vscode-icons
