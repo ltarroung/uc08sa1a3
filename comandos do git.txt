@@ -8,3 +8,4 @@ git remote add origin https://github.com/ltarroung/uc08sa1a3.git
 
 instalar extensão no vs code:
  vscode-icons
+ 
